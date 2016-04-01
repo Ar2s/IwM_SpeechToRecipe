@@ -1,0 +1,1 @@
+Projekt na zaliczenie przedmiotu "Informatyka w medycynie" 2015/2016 PUT.
